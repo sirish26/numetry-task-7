@@ -1,0 +1,9 @@
+.App {max-width: 800px;  margin: 0 auto;  padding: 20px;}
+h1 {text-align: center; margin-bottom: 20px;}
+form {display: flex;flex-direction: column;margin-bottom: 20px;}
+input {margin-bottom: 10px;padding: 8px;border: 1px solid #ccc;}
+button {padding: 8px;cursor: pointer;margin: auto;}
+table {width: 100%;border-collapse: collapse;margin-top: 20px;}
+th, td {border: 1px solid #ddd;padding: 5px;}
+th {background-color: #04f5d5;font-weight: bold;}
+tr:nth-child(even) {background-color: #9fe8eb;}
